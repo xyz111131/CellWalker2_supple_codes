@@ -1,0 +1,24 @@
+"","Cluster ID","Name","Name (long)","In GluN trajectory","Color","Order","N cells"
+"c0","c0","GluN5","Glutamatergic Neuron 5",TRUE,"#02e493",12,11367
+"c1","c1","CGE IN","CGE Interneuron",FALSE,"#d89aff",17,5510
+"c2","c2","GluN1","Glutamatergic Neuron 1",TRUE,"#25b9ae",8,4984
+"c3","c3","MGE IN","MGE Interneuron",FALSE,"#ffaaa4",18,4337
+"c4","c4","GluN4","Glutamatergic Neuron 4",TRUE,"#80ff9c",11,3954
+"c5","c5","GluN2","Glutamatergic Neuron 2",TRUE,"#00c4f7",9,3784
+"c6","c6","Early RG","Early Radial Glia",FALSE,"#ff895f",2,3155
+"c7","c7","GluN7","Glutamatergic Neuron 7",TRUE,"#9ed4ff",14,2703
+"c8","c8","Cyc. Prog.","Cycling Progenitor",TRUE,"#ffae5c",1,2701
+"c9","c9","GluN3","Glutamatergic Neuron 3",TRUE,"#33FBFF",10,2685
+"c10","c10","Late RG","Late Radial Glia",FALSE,"#ffd36f",3,1969
+"c11","c11","mGPC","Multipotent glial progenitor cell",FALSE,"#fff960",5,1920
+"c12","c12","GluN6","Glutamatergic Neuron 6",TRUE,"#8cea00",13,1627
+"c13","c13","SP","Subplate",FALSE,"#00F2C7",16,1333
+"c14","c14","nIPC","neuronal intermedate progenitor cell",TRUE,"#A074DF",7,1303
+"c15","c15","GluN8","Glutamatergic Neuron 8",TRUE,"#dcff7c",15,1210
+"c16","c16","MG","Microglia",FALSE,"#00ee60",19,944
+"c17","c17","OPC/Oligo","Oligodendrocyte Progenitor Cell/Oligodendrocyte",FALSE,"#e2c800",6,873
+"c18","c18","tRG","Truncated Radial Glia",FALSE,"#ffeb28",4,713
+"c19","c19","Peric.","Pericyte",FALSE,"#fe8eff",20,448
+"c20","c20","EC","Endothelial Cell",FALSE,"#ffb9f0",21,273
+"c21","c21","RBC","Red Blood Cell",FALSE,"#969696",23,45
+"c22","c22","VLMC","Vascular and Leptomeningeal Cell",FALSE,"#d9d9d9",22,30
